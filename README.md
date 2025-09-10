@@ -8,7 +8,7 @@
 </p>
 
 ## About Laravel
-
+Laravel is a free, open-source PHP web application framework designed for building web applications following the model-view-controller (MVC) architectural pattern. It was created by Taylor Otwell and is based on Symfony components. 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
